@@ -1,4 +1,4 @@
-# gatsby-plugin-use-query-params
+# gatsby-plugin-use-query-params-v2
 
 Drop in support for [`use-query-params`](https://www.npmjs.com/package/use-query-params)
 
@@ -16,7 +16,7 @@ Drop in support for [`use-query-params`](https://www.npmjs.com/package/use-query
 ## Installation
 
 ```
-npm install use-query-params gatsby-plugin-use-query-params
+npm install use-query-params gatsby-plugin-use-query-params-v2
 ```
 
 ## Usage
@@ -27,11 +27,7 @@ In `gatsby-config.js`:
 
 ```js
 module.exports = {
-  plugins: [
-    ...otherPlugins,
-
-    "gatsby-plugin-use-query-params",
-  ],
+  plugins: [...otherPlugins, "gatsby-plugin-use-query-params-v2"],
 };
 ```
 

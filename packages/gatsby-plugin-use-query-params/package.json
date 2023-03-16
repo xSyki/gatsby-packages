@@ -1,15 +1,15 @@
 {
-  "name": "gatsby-plugin-use-query-params",
-  "version": "1.0.1",
+  "name": "gatsby-plugin-use-query-params-v2",
+  "version": "2.0.0",
   "license": "MIT",
   "description": "",
-  "author": "Alex Luong <alex@alexluong.com>",
+  "author": "xSyki <mikolajsykula@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexluong/gatsby-packages.git",
-    "directory": "packages/gatsby-plugin-prefix"
+    "url": "https://github.com/xSyki/gatsby-packages.git",
+    "directory": "packages/gatsby-plugin-use-query-params"
   },
-  "homepage": "https://github.com/alexluong/gatsby-packages/tree/master/packages/gatsby-plugin-use-query-params#readme",
+  "homepage": "https://github.com/xSyki/gatsby-packages/tree/master/packages/gatsby-plugin-use-query-params#readme",
   "keywords": [
     "gatsby",
     "gatsby-plugin",
